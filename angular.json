@@ -27,9 +27,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/libs/bootstrap/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/libs/font-awasome/all.min.js",
+              "src/assets/libs/bootstrap/bootstrap.bundle.min.js"
+            ]
           },
           "configurations": {
             "production": {
